@@ -5,7 +5,6 @@
 
 - 💬 Ask me about **dart**
 
-- 📫 How to reach me **www.linkedin.com/in/safvan-ekkadan-ba9b81258**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
