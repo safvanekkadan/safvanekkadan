@@ -20,7 +20,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safvanekkadan&show_icons=true&locale=en" alt="safvanekkadan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safvanekkadan&" alt="safvanekkadan" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safvanekkadan&" alt="" /></p>
+
 
 <strong>🏆 github stats</strong>
 
