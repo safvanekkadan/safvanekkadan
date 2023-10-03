@@ -21,7 +21,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safvanekkadan&" alt="safvanekkadan" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safvanekkadan&" alt="" /></p>
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+
 <strong>🏆 github stats</strong>
 
 <a href="https://stats.hyochan.dev/en/stats/safvanekkadan"><img src="https://stats.hyochan.dev/api/github-stats?login=safvanekkadan" width="600" /></a>
