@@ -22,14 +22,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safvanekkadan&" alt="safvanekkadan" /></p>
 
 
-<strong>🏆 github stats</strong>
 
-<a href="https://stats.hyochan.dev/en/stats/safvanekkadan"><img src="https://stats.hyochan.dev/api/github-stats?login=safvanekkadan" width="600" /></a>
-
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
-
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
                                 
 
