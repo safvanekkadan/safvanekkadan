@@ -16,11 +16,20 @@
 
 [![An image of @safvanekkadan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/safvanekkadan)](https://holopin.io/@safvanekkadan)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safvanekkadan&show_icons=true&locale=en&layout=compact" alt="safvanekkadan" /></p>
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safvanekkadan&show_icons=true&locale=en&layout=compact" alt="safvanekkadan" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safvanekkadan&show_icons=true&locale=en" alt="safvanekkadan" /></p>
+<p>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safvanekkadan&show_icons=true&locale=en" alt="safvanekkadan" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safvanekkadan&" alt="safvanekkadan" /></p>
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safvanekkadan&" alt="safvanekkadan" />
+</p>
+
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/msafvanek?theme=dark)
 
 
 
