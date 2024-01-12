@@ -27,7 +27,6 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safvanekkadan&" alt="safvanekkadan" />
 </p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/msafvanek?theme=dark)
 
 
 
